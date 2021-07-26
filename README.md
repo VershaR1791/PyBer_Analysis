@@ -16,6 +16,6 @@ Using the *'pivot'* function based on date of the trip and the type of the city,
 
 ![Fares by City Type](https://user-images.githubusercontent.com/84694664/126920782-5c0fbe92-c099-489f-8bee-8faa79f7400e.png)
 
-- 
+- The total fare is highest for the Urban cities
 ## Summary 
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
