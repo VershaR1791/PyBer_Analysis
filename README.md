@@ -17,5 +17,8 @@ Using the *'pivot'* function based on date of the trip and the type of the city,
 ![Fares by City Type](https://user-images.githubusercontent.com/84694664/126920782-5c0fbe92-c099-489f-8bee-8faa79f7400e.png)
 
 - The total fare is highest for the Urban cities
-## Summary 
+## Summary
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+- The average fare per ride and per driver is very high in the rural region compared to the urban and suburban areas. *'Pyber'* should implement promotional events such as discount offers, coupons codes that can be shared with friends/family to get first ride free and to encourage more drivers to drive to or from the rural areas. 
+- There is an unsual spike in 3rd week of March total fares in every city type possibly due to spring break and more students using *'Pyber'* services during the holiday. The management can introduce special event for students during spring break such as pool with friends.
+- The driver to ride ratio is lowest in rural areas indicating there is less driver availability in the rural regions. *'Pyber'* should partner with a hiring platform to hire more drivers in the rural area.
